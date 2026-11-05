@@ -3,7 +3,7 @@
  * Roll Number: BCS2025493
  * Course: B.Tech CSE
  * Subject: Introduction to Programming Using Java Lab (BCS351)
- * Assignment: 1, Question: 2
+ * Assignment: 1, Question: 1
  */
 
 public class main {
